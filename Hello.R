@@ -47,6 +47,8 @@ class(num_2)
 is.numeric(num_1)
 is.numeric(num_2)
 
+#test typo
+
 
 
 
